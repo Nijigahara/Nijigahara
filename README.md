@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="150" src="https://pasteboard.co/YX6Ob9h6czHr.png"  />
+  <img height="150" src="https://gcdnb.pbrd.co/images/6kGykPpGSyin.png?o=1"  />
 </div>
 
 ###
