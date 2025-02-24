@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/55877150?v=4"  />
+  <img height="150" src="https://pasteboard.co/YX6Ob9h6czHr.png"  />
 </div>
 
 ###
