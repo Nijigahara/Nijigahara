@@ -48,13 +48,13 @@ Here are some ideas to get you started:
 
 ###
 
+<div align="center">
+  <img height="300" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/IamSeries/IamProgrammerEnglish.png"  />
+</div>
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<div align="center">
-  <img height="150" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/IamSeries/IamProgrammerEnglish.png"  />
-</div>
 
 <p align="left">I'm Shahbaj Shafin Haque, known online as Nijigahara🌻<br><br>- 🔭 I’m working as a Web Developer<br>- 📚 I'm currently learning Bevy and Rust<br>- ⚡ In my free time I read Manga and play Games</p>
 
