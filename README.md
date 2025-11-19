@@ -1,17 +1,11 @@
 <div align="center">
-  <img height="150" src="https://photos.google.com/share/AF1QipN8EIQht1KhEl9Peyzn9p4lf8kjIoRpo_It5uXuQIE38_Af73r_vDgAG1qEcn-r7w/photo/AF1QipOr9iXEOh9IAwtdrCfkkx1GctKndx73-TWvnuQ6?key=LVNrSkhqN1ppekZZbVRuR0h4SzEtZlA4RXVLOUxB"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/nijigahara/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@nijigaharaTV">
+  <a href="https://www.youtube.com/@shahbajshafin">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://x.com/nijigaharaX">
+  <a href="https://x.com/shahbajshafin">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
   <a href="https://www.twitch.tv/nijigahara">
